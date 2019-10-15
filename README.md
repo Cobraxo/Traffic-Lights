@@ -6,6 +6,8 @@ So here the diagram:
 
 ## Pictures
 
+And here there are pictures, about the hardware:
+
 ![images/Pictures](/Pictures/Front.jpg)
 ![images/Pictures](/Pictures/Side.jpg)
 ![images/Pictures](/Pictures/Above.jpg)
