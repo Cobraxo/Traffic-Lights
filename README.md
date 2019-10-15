@@ -1,6 +1,6 @@
 # Traffic-Lights
 
-This traffic lights are made with **Finite State Machine** concept,so here the diagram:
+This traffic lights are made with **Finite State Machine** concept, so here the diagram:
 ![images/Diagram](/Diagram/Diagram.png)
 
 ## Pictures
