@@ -5,7 +5,7 @@ This traffic lights are made with **Finite State Machine** concept, so here the 
 
 ## Pictures
 
-And here there are pictures, about the hardware:
+And here there are pictures, about the **hardware**:
 
 ![images/Pictures](/Pictures/Front.jpg)
 ![images/Pictures](/Pictures/Side.jpg)
