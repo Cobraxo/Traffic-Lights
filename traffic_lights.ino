@@ -11,7 +11,8 @@
 
 State::State(light Initial_State = green_light, long int m_time_transition = 0) 
 : m_current_state(Initial_State), m_time(m_time_transition)
-{}
+{
+}
 
 light State::getState() const {
 
